@@ -7,3 +7,5 @@ Basically the data set is given all the related information about the wine and t
 Our task is to perform the clustering the different quality of wine, Y it is usefull? There is ranking among the wine quality
 Everone wants the best products, but some times it is maniny depends upon individual choice.
 Clustering is done based on Euclidean distance matrix and then similar quality of wine grouped together
+
+Kaggle-linl : https://www.kaggle.com/digvijaysingh16/k-mean-clustering-for-wine-quality-data
